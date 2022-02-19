@@ -51,3 +51,9 @@ body {
   position: relative;
   top: 1rem;
 }
+
+@media only screen and (max-width: 375px) {
+  .app {
+    top: 17.103vh;
+  }
+}
